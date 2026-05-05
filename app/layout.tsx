@@ -13,7 +13,6 @@ export default function RootLayout({
           <nav className="flex gap-10">
             <Link href="/">Home</Link>
             <Link href="/login">Login</Link>
-            <Link href="/users">Users</Link>
           </nav>
         </header>
 
